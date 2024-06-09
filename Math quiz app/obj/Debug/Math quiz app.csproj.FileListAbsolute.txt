@@ -1,0 +1,10 @@
+C:\Users\dell\Desktop\Project\Math quiz app\Math quiz app\bin\Debug\Math quiz app.exe.config
+C:\Users\dell\Desktop\Project\Math quiz app\Math quiz app\bin\Debug\Math quiz app.exe
+C:\Users\dell\Desktop\Project\Math quiz app\Math quiz app\bin\Debug\Math quiz app.pdb
+C:\Users\dell\Desktop\Project\Math quiz app\Math quiz app\obj\Debug\Math quiz app.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Project\Math quiz app\Math quiz app\obj\Debug\Math_quiz_app.Form1.resources
+C:\Users\dell\Desktop\Project\Math quiz app\Math quiz app\obj\Debug\Math_quiz_app.Properties.Resources.resources
+C:\Users\dell\Desktop\Project\Math quiz app\Math quiz app\obj\Debug\Math quiz app.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\Project\Math quiz app\Math quiz app\obj\Debug\Math quiz app.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Project\Math quiz app\Math quiz app\obj\Debug\Math quiz app.exe
+C:\Users\dell\Desktop\Project\Math quiz app\Math quiz app\obj\Debug\Math quiz app.pdb
